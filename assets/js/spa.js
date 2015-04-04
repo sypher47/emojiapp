@@ -12,6 +12,6 @@
                 $scope.apply();
                 break;
             }
-        })
+        });
     
     }]);
